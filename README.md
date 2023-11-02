@@ -33,7 +33,3 @@ In project structure under directory "src/main/resources".
 Copy these file 
 
 ## Notes ##
-
-Would have liked to used parallel streams, but time constraints did that it was not possible to implement it properly.
-
-A rough example is at the bottom the InputFile java file.
